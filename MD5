@@ -1,0 +1,17 @@
+eca624ed49f3016cdaa62cb5ccb1fa2b *DESCRIPTION
+90aacaa15a408c893e1b331cea854eda *NAMESPACE
+d5256c5a60fc2e569fdaf0ffce214a68 *R/cat_to_val.R
+9b96407a974798e8a34b752b0decfc80 *R/crosstabDT.R
+6e6cf7fac8f80ce8831d041e6caada9d *R/fasterizeDT.R
+892c89001cf4dde0a937081c7e09d3b2 *R/freqDT.R
+d80ec4935d9e75e6202c847588c9769d *R/subsDT.R
+da51b5304b88f2b10dfab172e63d2c55 *R/zonalDT.R
+aa82d922dead8c2f2a582f957179de85 *R/zzz.R
+8a1d136ea62a6ed25650ee0266076048 *build/partial.rdb
+06aac2d855d3d69137ae89b3993ea5e1 *man/cat_to_val.Rd
+2669e3a807a339a1485512823c3c09a1 *man/crosstabDT.Rd
+fc799d936e96a119a17d2407dc1fe725 *man/fasterizeDT.Rd
+f7649f27452b4d13b3b3a91841e92162 *man/freqDT.Rd
+a2180a1ab877e02e37883bbf3003d81b *man/rasterDT-package.Rd
+b3788d52987c0b079f3ede301fefecfc *man/subsDT.Rd
+0bde81ac9ae6fd8476e5330ed34b2f22 *man/zonalDT.Rd
