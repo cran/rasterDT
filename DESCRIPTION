@@ -1,8 +1,8 @@
 Package: rasterDT
 Type: Package
 Title: Fast Raster Summary and Manipulation
-Version: 0.3.1
-Date: 2020-02-26
+Version: 0.3.2
+Date: 2022-12-25
 Author: Joshua O'Brien
 Maintainer: Joshua O'Brien <joshmobrien@gmail.com>
 Description: 
@@ -16,13 +16,12 @@ Description:
 License: GPL (>= 2)
 URL: https://github.com/JoshOBrien/rasterDT/
 BugReports: https://github.com/JoshOBrien/rasterDT/issues/
-Depends: methods, raster, data.table
+Depends: methods, raster (>= 3.6-3), data.table
 Imports: fasterize, sf
-Suggests: rasterVis, rgdal
-LazyData: true
+Suggests: rasterVis
 Encoding: UTF-8
-RoxygenNote: 7.0.2
+RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2020-02-26 16:08:31 UTC; Josh
+Packaged: 2022-12-15 20:47:13 UTC; Josh
 Repository: CRAN
-Date/Publication: 2020-03-04 16:30:02 UTC
+Date/Publication: 2022-12-15 21:20:02 UTC
